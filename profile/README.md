@@ -18,7 +18,7 @@ We’re good listeners. The following repositories are dedicated to gathering fe
 | Repository                                                    | Purpose                                          |
 | ------------------------------------------------------------- | ------------------------------------------------ |
 | [`docker/desktop-feedback`](http://dockr.ly/desktop-feedback) | Feedback and feature requests for Docker Desktop |
-| [`docker/hub-feedback`](http://dockr.ly/hubx-feedback)        | Feedback and feature requests for Docker Desktop |
+| [`docker/hub-feedback`](http://dockr.ly/hub-feedback)         | Feedback and feature requests for Docker Hub     |
 
 ## 🔗 Useful Links
 
