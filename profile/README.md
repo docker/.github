@@ -34,6 +34,14 @@ We’re good listeners. The following repositories are dedicated to gathering fe
 We welcome contributions!  
 Check out individual repositories for contributing guides, open issues, and ways to get involved. Look for `good first issue` or `help-wanted` labels to get started.
 
+## 🔐 Security
+
+To report a vulnerability, please follow the project's `SECURITY.md` file if present, or email us at [security@docker.com](mailto:security@docker.com).
+
+## ❤️ Open Source
+
+Docker supports non-commercial open source projects through the [Docker-Sponsored Open Source (DSOS) Program](https://www.docker.com/community/open-source/application/), offering benefits like verified badges, insights, and more.
+
 ## 🧭 Explore More
 
 Looking for something else?  
