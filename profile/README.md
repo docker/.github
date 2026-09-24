@@ -1,12 +1,9 @@
-<p align="center" style="font-size: 1.5em;"><strong>For developers, by
-developers.</strong></p>
-
 <!-- Banner image goes here -->
 <p align="center">
-  <img src="docker-logo-blue.svg" alt="Docker banner" style="max-width: 100%; width: 600px;" />
+  <img src="next-gh.png" alt="Docker banner" />
 </p>
 
-## 🐳 Whalecome to Docker!
+## Whalecome to Docker!
 
 Docker helps developers build, share, run, and verify applications anywhere —
 without tedious environment configuration or management. This GitHub
