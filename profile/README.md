@@ -13,6 +13,25 @@ experience.
 Whether you're using Docker for local development, CI automation, or building
 secure software supply chains — we're glad you're here.
 
+## 🧪 Introducing Docker Sandboxes
+
+**Run agents safely, local to cloud.**
+[Docker Sandboxes](https://www.docker.com/products/docker-sandboxes/) (`sbx`)
+is a disposable, isolated environment where an agent works unattended — your
+host stays untouched. Claude Code, Codex, and your other agents run at full
+speed in MicroVM environments, each with its own kernel and its own private
+Docker Engine, on your machine or on Docker-managed cloud infrastructure —
+move a sandbox between the two with one command.
+
+```console
+$ sbx --cloud run claude
+$ sbx move my-project --to cloud
+```
+
+Sandbox Kits are declarative YAML applied at startup: they give an agent its
+tools, credentials, and network rules, or define a whole agent, without
+rebuilding the image. → [Read the spec](https://github.com/docker/sandbox-kit-spec)
+
 ## 💬 Feedback
 
 We’re good listeners. The following repositories are dedicated to gathering
